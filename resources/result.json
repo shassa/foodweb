@@ -1,0 +1,137 @@
+[
+    {
+        "id": 5,
+        "name": "hamburger",
+        "cat_id": 5,
+        "price": 150,
+        "photo": "coverimage_1611955467.jpg",
+        "created_at": "2021-01-29T20:31:48.000000Z",
+        "updated_at": "2021-01-29T21:24:27.000000Z",
+        "category": {
+            "id": 5,
+            "name": "chicken",
+            "created_at": "2021-01-29T20:10:12.000000Z",
+            "updated_at": "2021-01-29T20:10:12.000000Z"
+        }
+    },
+    {
+        "id": 6,
+        "name": "hamburger",
+        "cat_id": 7,
+        "price": 200,
+        "photo": "coverimage_1611953332.png",
+        "created_at": "2021-01-29T20:32:09.000000Z",
+        "updated_at": "2021-01-29T20:48:52.000000Z",
+        "category": {
+            "id": 7,
+            "name": "Lamb",
+            "created_at": "2021-01-29T20:11:20.000000Z",
+            "updated_at": "2021-01-30T10:40:17.000000Z"
+        }
+    },
+    {
+        "id": 7,
+        "name": "hamburger",
+        "cat_id": 6,
+        "price": 150,
+        "photo": "coverimage_1611953438.jpg",
+        "created_at": "2021-01-29T20:33:05.000000Z",
+        "updated_at": "2021-01-29T20:50:38.000000Z",
+        "category": {
+            "id": 6,
+            "name": "beef",
+            "created_at": "2021-01-29T20:10:57.000000Z",
+            "updated_at": "2021-01-29T20:10:57.000000Z"
+        }
+    },
+    {
+        "id": 8,
+        "name": "gambary",
+        "cat_id": 3,
+        "price": 40,
+        "photo": "coverimage_1611954880.jpg",
+        "created_at": "2021-01-29T20:52:07.000000Z",
+        "updated_at": "2021-01-29T21:14:40.000000Z",
+        "category": {
+            "id": 3,
+            "name": "fish",
+            "created_at": "2021-01-29T20:09:22.000000Z",
+            "updated_at": "2021-01-29T20:09:22.000000Z"
+        }
+    },
+    {
+        "id": 9,
+        "name": "gambary",
+        "cat_id": 3,
+        "price": 56,
+        "photo": "coverimage_1611953678.jpg",
+        "created_at": "2021-01-29T20:54:38.000000Z",
+        "updated_at": "2021-01-29T20:54:38.000000Z",
+        "category": {
+            "id": 3,
+            "name": "fish",
+            "created_at": "2021-01-29T20:09:22.000000Z",
+            "updated_at": "2021-01-29T20:09:22.000000Z"
+        }
+    },
+    {
+        "id": 11,
+        "name": "nagets",
+        "cat_id": 9,
+        "price": 200,
+        "photo": "coverimage_1611955001.jpg",
+        "created_at": "2021-01-29T21:16:41.000000Z",
+        "updated_at": "2021-01-29T21:16:41.000000Z",
+        "category": {
+            "id": 9,
+            "name": "Geese",
+            "created_at": "2021-01-29T20:12:05.000000Z",
+            "updated_at": "2021-01-29T20:12:05.000000Z"
+        }
+    },
+    {
+        "id": 12,
+        "name": "nagets",
+        "cat_id": 5,
+        "price": 200,
+        "photo": "coverimage_1611955042.jpg",
+        "created_at": "2021-01-29T21:17:22.000000Z",
+        "updated_at": "2021-01-29T21:17:22.000000Z",
+        "category": {
+            "id": 5,
+            "name": "chicken",
+            "created_at": "2021-01-29T20:10:12.000000Z",
+            "updated_at": "2021-01-29T20:10:12.000000Z"
+        }
+    },
+    {
+        "id": 13,
+        "name": "nagets",
+        "cat_id": 6,
+        "price": 200,
+        "photo": "coverimage_1611955324.jpg",
+        "created_at": "2021-01-29T21:22:04.000000Z",
+        "updated_at": "2021-01-29T21:22:04.000000Z",
+        "category": {
+            "id": 6,
+            "name": "beef",
+            "created_at": "2021-01-29T20:10:57.000000Z",
+            "updated_at": "2021-01-29T20:10:57.000000Z"
+        }
+    },
+    {
+        "id": 15,
+        "name": "duck",
+        "cat_id": 8,
+        "price": 400,
+        "photo": "coverimage_1611955655.jpg",
+        "created_at": "2021-01-29T21:27:35.000000Z",
+        "updated_at": "2021-01-29T21:27:35.000000Z",
+        "category": {
+            "id": 8,
+            "name": "duck",
+            "created_at": "2021-01-29T20:11:48.000000Z",
+            "updated_at": "2021-01-29T20:11:48.000000Z"
+        }
+    }
+]
